@@ -46,9 +46,3 @@ Contact
 - Indeed: https://profile.indeed.com/p/michaelm-pj38tvv
 
 Thanks for checking out my work!
-
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

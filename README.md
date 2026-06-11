@@ -41,7 +41,7 @@ My goal is to transition into a Junior Web Developer role and continue growing t
 ---
 
 Contact
-- Email: slypher00@gmail.com  
+- Email: michael.markum00@gmail.com  
 - GitHub: https://github.com/Slypher00
 - Indeed: https://profile.indeed.com/p/michaelm-pj38tvv
 
